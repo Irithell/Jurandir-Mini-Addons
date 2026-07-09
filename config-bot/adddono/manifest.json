@@ -1,0 +1,27 @@
+{
+  "name": "adddono",
+  "displayName": "Add Dono",
+  "version": "1.0.0",
+  "description": "Adiciona um novo dono ao bot",
+  "author": "Irithell",
+  "repository": "Irithell/Jurandir-Mini-Addons",
+  "changelog": {
+    "1.0.0": "Release inicial."
+  },
+  "requires": [
+    "deldono"
+  ],
+  "conflicts": [],
+  "packages": {},
+  "files": [
+    {
+      "src": "config-bot/adddono/commands/adddono.js",
+      "dest": "src/commands/config-bot/adddono.js",
+      "type": "command",
+      "hash": "sha256:037041484df736121892d293198154d09f11ed51cfc288c4d38589c7e3fca608"
+    }
+  ],
+  "hooks": [],
+  "injects": [],
+  "defaultConfig": {}
+}

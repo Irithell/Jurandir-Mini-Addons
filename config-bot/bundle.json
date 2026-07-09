@@ -1,0 +1,8 @@
+{
+  "name": "config-bot",
+  "displayName": "Config Bot",
+  "description": "Nome, prefixo e donos do bot",
+  "version": "1.0.0",
+  "author": "Irithell",
+  "components": ["setname", "setprefix", "dono", "deldono", "adddono"]
+}

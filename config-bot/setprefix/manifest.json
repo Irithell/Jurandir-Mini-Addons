@@ -1,0 +1,25 @@
+{
+  "name": "setprefix",
+  "displayName": "Set Prefix",
+  "version": "1.0.0",
+  "description": "Altera o prefixo do bot",
+  "author": "Irithell",
+  "repository": "Irithell/Jurandir-Mini-Addons",
+  "changelog": {
+    "1.0.0": "Release inicial."
+  },
+  "requires": [],
+  "conflicts": [],
+  "packages": {},
+  "files": [
+    {
+      "src": "config-bot/setprefix/commands/setprefix.js",
+      "dest": "src/commands/config-bot/setprefix.js",
+      "type": "command",
+      "hash": "sha256:64c6129f247df7700a4d1805b52cf80e13083226a50eb8e59c36c0992fcd93f2"
+    }
+  ],
+  "hooks": [],
+  "injects": [],
+  "defaultConfig": {}
+}

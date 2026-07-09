@@ -1,0 +1,25 @@
+{
+  "name": "setname",
+  "displayName": "Set Name",
+  "version": "1.0.0",
+  "description": "Altera o nome do bot",
+  "author": "Irithell",
+  "repository": "Irithell/Jurandir-Mini-Addons",
+  "changelog": {
+    "1.0.0": "Release inicial."
+  },
+  "requires": [],
+  "conflicts": [],
+  "packages": {},
+  "files": [
+    {
+      "src": "config-bot/setname/commands/setname.js",
+      "dest": "src/commands/config-bot/setname.js",
+      "type": "command",
+      "hash": "sha256:72ece524304f30f7f75f29aa08ce5bc4187308f8a0ebcce753c287ecbf416861"
+    }
+  ],
+  "hooks": [],
+  "injects": [],
+  "defaultConfig": {}
+}

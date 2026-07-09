@@ -1,0 +1,25 @@
+{
+  "name": "dono",
+  "displayName": "Donos",
+  "version": "1.0.0",
+  "description": "Lista os donos do bot",
+  "author": "Irithell",
+  "repository": "Irithell/Jurandir-Mini-Addons",
+  "changelog": {
+    "1.0.0": "Release inicial."
+  },
+  "requires": [],
+  "conflicts": [],
+  "packages": {},
+  "files": [
+    {
+      "src": "config-bot/dono/commands/dono.js",
+      "dest": "src/commands/config-bot/dono.js",
+      "type": "command",
+      "hash": "sha256:37d97a88ccba87b8550c630b6b6aaf079468b8aa9fb7b954366bfaa997f3f01a"
+    }
+  ],
+  "hooks": [],
+  "injects": [],
+  "defaultConfig": {}
+}

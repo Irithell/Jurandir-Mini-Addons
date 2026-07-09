@@ -1,0 +1,25 @@
+{
+  "name": "deldono",
+  "displayName": "Del Dono",
+  "version": "1.0.0",
+  "description": "Remove um dono do bot",
+  "author": "Irithell",
+  "repository": "Irithell/Jurandir-Mini-Addons",
+  "changelog": {
+    "1.0.0": "Release inicial."
+  },
+  "requires": [],
+  "conflicts": [],
+  "packages": {},
+  "files": [
+    {
+      "src": "config-bot/deldono/commands/deldono.js",
+      "dest": "src/commands/config-bot/deldono.js",
+      "type": "command",
+      "hash": "sha256:a9e9c5a4ce62e3a6d080fd50bc959a264d76b9688911f462651a66ea90b44abe"
+    }
+  ],
+  "hooks": [],
+  "injects": [],
+  "defaultConfig": {}
+}

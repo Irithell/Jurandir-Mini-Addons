@@ -1,0 +1,22 @@
+{
+  "version": "1",
+  "categories": [
+    {
+      "name": "config-bot",
+      "displayName": "Configuração do Bot",
+      "emoji": "⚙️",
+      "items": [
+        {
+          "path": "config-bot",
+          "name": "config-bot",
+          "displayName": "Config Bot",
+          "description": "Nome, prefixo e donos do bot",
+          "version": "1.0.0",
+          "type": "bundle",
+          "componentCount": 5,
+          "author": "Irithell"
+        }
+      ]
+    }
+  ]
+}
