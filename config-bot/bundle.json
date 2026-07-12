@@ -4,5 +4,6 @@
   "description": "Nome, prefixo e donos do bot",
   "version": "1.0.0",
   "author": "Irithell",
+  "image": "https://pub-5cd6924d31ff4d3aae9f8df4b3ae81f4.r2.dev/9b0e35d16d4c8afba09d453e1db525f4",
   "components": ["setname", "setprefix", "dono", "deldono", "adddono"]
 }
