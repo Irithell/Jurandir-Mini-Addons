@@ -4,13 +4,12 @@
   "version": "1.0.0",
   "description": "Adiciona um novo dono ao bot",
   "author": "Irithell",
+  "image": "https://pub-5cd6924d31ff4d3aae9f8df4b3ae81f4.r2.dev/4c16bf9cf1fa26dc9255f676d070e59c",
   "repository": "Irithell/Jurandir-Mini-Addons",
   "changelog": {
     "1.0.0": "Release inicial."
   },
-  "requires": [
-    "deldono"
-  ],
+  "requires": ["deldono"],
   "conflicts": [],
   "packages": {},
   "files": [
